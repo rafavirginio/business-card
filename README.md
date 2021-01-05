@@ -1,8 +1,7 @@
 # business-card
  Cartão de visita
 
- ![ Prévia ](/src/images/business-card-img.png)
-
+<img src="./images/business-card-img.png">
 
 ## Technologies
 
